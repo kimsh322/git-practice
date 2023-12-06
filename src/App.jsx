@@ -8,6 +8,7 @@ function App() {
       <div>banana</div>
       <div>토마토</div>
       <div>grape</div>
+      <div>grape2</div>
     </>
   );
 }
