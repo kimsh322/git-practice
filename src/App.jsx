@@ -11,6 +11,7 @@ function App() {
       <div>grape2</div>
       <div>grape3</div>
       <div>potato1</div>
+      <div>potato2</div>
     </>
   );
 }
