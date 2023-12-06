@@ -6,6 +6,7 @@ function App() {
       <div>깃 연습용 프로젝트</div>
       <div>apple</div>
       <div>banana</div>
+      <div>토마토</div>
     </>
   );
 }
