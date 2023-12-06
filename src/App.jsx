@@ -7,6 +7,7 @@ function App() {
       <div>apple</div>
       <div>banana</div>
       <div>토마토</div>
+      <div>grape</div>
     </>
   );
 }
